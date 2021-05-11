@@ -3,7 +3,7 @@ module.exports = {
     title: `Brooklin Myers`,
     author: {
       name: `Brooklin Myers`,
-      summary: `who creates educational material for learning how to code`,
+      summary: `create educational material for learning how to code`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
